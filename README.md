@@ -309,7 +309,6 @@ cat ~/.openclaw/workspace/agents.md
 
 - [OpenClaw Official Docs](https://docs.openclaw.ai)
 - [OpenClaw GitHub](https://github.com/openclaw/openclaw)
-- [NetworkChuck OpenClaw Setup Guide](https://github.com/theNetworkChuck/openclaw-setup)
 - [ClawHub Skills Marketplace](https://clawhub.com)
 
 ---
