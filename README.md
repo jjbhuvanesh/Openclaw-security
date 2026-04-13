@@ -1,7 +1,7 @@
 # 🛡️ Securing OpenClaw — Security Hardening Demo
 
 > **OpenClaw + Telegram Bot Integration & Security Hardening**  
-> VMware Workstation Demo — Prepared for **Invigrid Company**  
+> VMware Workstation Demo  
 > By **Bhuvanesh Jeyaprakash** | April 2026
 
 ---
